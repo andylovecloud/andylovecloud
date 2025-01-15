@@ -20,10 +20,12 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 
 You can find the area of my expertise as below:
 
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+## 📚 Projects
 
-🛠️ Tools & area of my expertise: 
+Welcome to my portfolio, where I showcase my [projects](#).
+
+
+## 🛠️ Tools & area of my expertise: 
 - IT Operation support processess (ITIL), development training, project management, Scrum Master.
 - Database Oversight: MSSQL SERVER,PL/Oracle, MySQL
 - Server and Networking: MCSA, MCSE, CCNA, CCNSP (Cisco system (router, switch))
@@ -34,11 +36,11 @@ Welcome to my portfolio, where I showcase my projects.
 - Testing Automation: SeleniumLibrary.
 - Cloud technologies: Azure, AWS, Google Cloud Platform (GCP)
 
-👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/anduytranhuynh/)
 <!-- Hire me on Upwork -->
 
-🏆 Archivements:
+## 🏆 Archivements:
 - [My badges](https://openbadgepassport.com/app/profile/218294)
 
 

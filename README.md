@@ -35,10 +35,10 @@ Welcome to my portfolio, where I showcase my projects.
 - Cloud technologies: Azure, AWS, Google Cloud Platform (GCP)
 
 👋🏻 Connect with Me
-- [Linkedin]{https://www.linkedin.com/in/anduytranhuynh/}
+- [Linkedin](https://www.linkedin.com/in/anduytranhuynh/)
 <!-- Hire me on Upwork -->
 
 🏆 Archivements:
-- [My badges]{https://openbadgepassport.com/app/profile/218294}
+- [My badges](https://openbadgepassport.com/app/profile/218294)
 
 

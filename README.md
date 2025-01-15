@@ -14,20 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Andy. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
 
+![Github-cover-crop](https://github.com/user-attachments/assets/9422fc0e-aed5-4795-9a48-7aea00af1271)
+
+
+Hello, I'm Andy. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
 Currently, pursuing my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland. As planned I'll be gradudated in summer 2025.
 
-You can find the area of my expertise as below:
 
 ## 📚 Projects
 
 Welcome to my portfolio, where I showcase my [projects](#).
 
 
-## 🛠️ Tools & area of my expertise: 
+## 🛠️ Area of my expertise: 
 - IT Operation support processess (ITIL), development training, project management, Scrum Master.
-- Database Oversight: MSSQL SERVER,PL/Oracle, MySQL
+- Database: MSSQL SERVER,PL/Oracle, MySQL
 - Server and Networking: MCSA, MCSE, CCNA, CCNSP (Cisco system (router, switch))
 - Virtualization: vSphere systems, VMWare, Virtual Box, Docker.
 - Programming languages: HTML,Java, JavaScript, ASP.NET, C, C++, C#, Python, PHP.
@@ -37,10 +39,11 @@ Welcome to my portfolio, where I showcase my [projects](#).
 - Cloud technologies: Azure, AWS, Google Cloud Platform (GCP)
 
 ## 👋🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/anduytranhuynh/)
-<!-- Hire me on Upwork -->
+- 🖇 [www.andy.io.vn](https://www.linkedin.com/in/anduytranhuynh/)
+- 📧 andy.tranhuynh@gmail.com
+  <!-- Hire me on Upwork -->
 
 ## 🏆 Archivements:
-- [My badges](https://openbadgepassport.com/app/profile/218294)
+- [My Open badges passport](https://openbadgepassport.com/app/profile/218294)
 
 

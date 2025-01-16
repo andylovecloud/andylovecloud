@@ -24,7 +24,7 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](#).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/andylovecloud/Porfolio-guide).
 
 
 ## 🛠️ Area of my expertise: 

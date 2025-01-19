@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 ![Github-cover-crop](https://github.com/user-attachments/assets/9422fc0e-aed5-4795-9a48-7aea00af1271)
 
 
-Hello, I'm Andy. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
+Hello, I'm **Andy**. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
+
 Currently, pursuing my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland. As planned I'll be gradudated in summer 2025.
 
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/andylovecloud/Porfolio-guide).
+- Welcome to my portfolio, where I showcase my [projects](https://github.com/andylovecloud/Porfolio-guide) 🏋🏻‍♂️
+- You can have a look on my working experience as well 😎
 
 
 ## 🛠️ Area of my expertise: 

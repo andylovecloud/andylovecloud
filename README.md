@@ -27,7 +27,7 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 
 - Welcome to my portfolio, where I showcase [**my projects**](https://github.com/andylovecloud/Porfolio-guide) 🏋🏻‍♂️
 - You can have a look on my [**working experience**](https://github.com/andylovecloud/Working-history-and-archivements) as well 😎
-- If you want to build the GitHub Porfolio like mine? Easy as pie! Just follow my guide here: ["How to create GitHub Porfolio"](https://github.com/andylovecloud/How-to-Create-a-GitHub-Portfolio) 👈🏻
+- If you want to build the GitHub Porfolio like mine? Easy as pie! Just follow my guide here: [**"How to create GitHub Porfolio"**](https://github.com/andylovecloud/How-to-Create-a-GitHub-Portfolio) 👈🏻
 
 
 ## 🛠️ Area of my expertise: 

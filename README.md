@@ -46,7 +46,7 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 - 📧 andy.tranhuynh@gmail.com
   <!-- Hire me on Upwork -->
 
-## 🏆 Archivements:
+## 🏆 Achivements:
 - [My Open badges passport](https://openbadgepassport.com/app/profile/218294)
 
 

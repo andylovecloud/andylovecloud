@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github-cover-crop](https://github.com/user-attachments/assets/9422fc0e-aed5-4795-9a48-7aea00af1271)
+![Git-cover](https://github.com/user-attachments/assets/2dbf412e-bfe2-4d9b-98db-2c6e561bad5e)
+
 
 
 Hello, I'm **Andy**. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 

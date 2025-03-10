@@ -53,5 +53,7 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 - [My Study Open badges passport](https://openbadgepassport.com/app/profile/218294)
 
 
-![Most Used Languages]([https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)
+<!--![Most Used Languages]([https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)-->
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)
 

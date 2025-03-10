@@ -1,4 +1,4 @@
-## Hi there 🙋🏻‍♂️
+## Hi there, I'm **Andy** 🙋🏻‍♂️
 
 <!--
 **andylovecloud/andylovecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-Hello, I'm **Andy**. Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
+I Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
 
 Currently, pursuing my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland. As planned I'll be gradudated in summer 2025.
 
@@ -52,4 +52,7 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 - [My achivements in workplaces](https://github.com/andylovecloud/Working-history-and-archivements)
 - [My Study Open badges passport](https://openbadgepassport.com/app/profile/218294)
 
+## My Github Stats ⚡️
+
+![Andy's Github Stats](github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api?username=andylovecloud&show_icons=true&theme=radical)
 

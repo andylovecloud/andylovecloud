@@ -54,5 +54,5 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 
 ## My Github Stats ⚡️
 
-![Andy's Github Stats](github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api?username=andylovecloud&show_icons=true&theme=radical)
+![Andy's Github Stats](https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api?username=andylovecloud&show_icons=true&theme=radical)
 

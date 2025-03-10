@@ -52,7 +52,6 @@ Currently, pursuing my second Bachelor in Business Administration in Computer Ap
 - [My achivements in workplaces](https://github.com/andylovecloud/Working-history-and-archivements)
 - [My Study Open badges passport](https://openbadgepassport.com/app/profile/218294)
 
-## My Github Stats ⚡️
 
-![Andy's Github Stats](https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api?username=andylovecloud&show_icons=true&theme=radical)
+![Most Used Languages]([https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)
 

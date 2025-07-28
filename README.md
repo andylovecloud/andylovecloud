@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
 
-Currently, pursuing my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland. As planned I'll be gradudated in summer 2025.
+I holded my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland from May 2025.
 
 
 ## 📚 Projects

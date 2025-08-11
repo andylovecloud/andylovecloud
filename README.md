@@ -36,11 +36,11 @@ I holded my second Bachelor in Business Administration in Computer Applications 
 - Database: MSSQL SERVER,PL/Oracle, MySQL
 - Server and Networking: MCSA, MCSE, CCNA, CCNSP (Cisco system (router, switch))
 - Virtualization: vSphere systems, VMWare, Virtual Box, Docker.
-- Programming languages: HTML,Java, JavaScript, ASP.NET, C, C++, C#, Python, PHP.
+- Programming languages: HTML,Java, JavaScript, ASP.NET, C, C++, C#, Python, PHP, Bash, Powershell.
 - Visualization: PowerBI, Figma, Canvas
 - Automation: Microsoft Power Automate, OutSystems, UiPath
 - Testing Automation: SeleniumLibrary.
-- Cloud technologies: Azure, AWS, Google Cloud Platform (GCP)
+- Cloud technologies: Azure, AWS, Google Cloud Platform (GCP), Kubernetes.
 
 ## 👋🏻 Connect with Me
 - 🖇 [www.andy.io.vn](https://www.linkedin.com/in/anduytranhuynh/)

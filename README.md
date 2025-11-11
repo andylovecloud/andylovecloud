@@ -54,7 +54,7 @@ Bachelor’s in **Business Administration (Computer Applications)** – HAMK Uni
 
 ---
 
-#### ⚙️ [CI/CD + Monitoring Demo](https://github.com/andylovecloud/Porfolio-guide)
+#### ⚙️ [CI/CD + Monitoring Demo](https://github.com/andylovecloud/DevOps_engineer)
 > A hands-on DevOps pipeline demonstration featuring **continuous integration**, **containerized deployment**, and **infrastructure monitoring**.
 
 **Tech Stack:** Jenkins, Docker, Prometheus, Grafana, GitHub Actions  

@@ -46,7 +46,7 @@ Bachelor’s in **Business Administration (Computer Applications)** – HAMK Uni
 
 ### 🧩 Featured Projects
 
-#### 🧠 [AI Fashion Assistant](https://github.com/andylovecloud/DevOps_engineer)
+#### 🧠 [AI Fashion Assistant](https://github.com/andylovecloud/AI-Fashion.git)
 > An AI-powered fashion chatbot that analyzes clothing images and suggests sustainable products using **LLaMA 3 Vision**, **SentenceTransformers**, and **FAISS**.
 
 **Tech Stack:** Python, Streamlit, LLaMA 3 Vision, FAISS, Transformers  

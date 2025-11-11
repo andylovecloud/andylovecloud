@@ -1,59 +1,100 @@
-## Hi there, I'm **Andy** 🙋🏻‍♂️
-
-<!--
-**andylovecloud/andylovecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi there, I'm **Andy Tran Huynh**
 
 ![Git-cover](https://github.com/user-attachments/assets/2dbf412e-bfe2-4d9b-98db-2c6e561bad5e)
 
+---
 
+### 💡 About Me
 
-I Used to work with expertise in Software Development Product LifeCycle Management (PLM) for 10 years. 
+I’m a **DevOps & Cloud Enthusiast** with over **10 years of experience in IT Service Operations** and **Software Product Lifecycle Management (PLM)**.  
+My professional journey began in enterprise IT support and service delivery, where I developed a strong foundation in system reliability, process optimization, and cross-team collaboration.  
 
-I holded my second Bachelor in Business Administration in Computer Applications at HAMK University in Finland from May 2025.
+Currently, I’m focusing on **Cloud Engineering and DevOps automation**, leveraging tools like AWS, Jenkins, Docker, and Terraform to streamline infrastructure and accelerate deployment cycles.
 
+🎓 **Education**:  
+Bachelor’s in **Business Administration (Computer Applications)** – HAMK University of Applied Sciences, Finland *(Graduation: May 2025)*  
 
-## 📚 Projects
+🌍 Based in Finland 🇫🇮 | Passionate about **continuous learning, scalable systems**, and **AI-integrated cloud solutions**.
 
-- Welcome to my portfolio, where I showcase [**my projects**](https://github.com/andylovecloud/Porfolio-guide) 🏋🏻‍♂️
-- You can have a look on my [**working experience**](https://github.com/andylovecloud/Working-history-and-archivements) as well 😎
-- If you want to build the GitHub Porfolio like mine? Easy as pie! Just follow my guide here: [**"How to create GitHub Porfolio"**](https://github.com/andylovecloud/How-to-Create-a-GitHub-Portfolio) 👈🏻
-- You can find here my journey to become a [DevOps Engineer](https://github.com/andylovecloud/DevOps_engineer). 
+---
 
-## 🛠️ Area of my expertise: 
-- IT Operation support processess (ITIL), development training, project management, Scrum Master.
-- Database: MSSQL SERVER,PL/Oracle, MySQL
-- Server and Networking: MCSA, MCSE, CCNA, CCNSP (Cisco system (router, switch))
-- Virtualization: vSphere systems, VMWare, Virtual Box, Docker.
-- Programming languages: HTML,Java, JavaScript, ASP.NET, C, C++, C#, Python, PHP, Bash, Powershell.
-- Visualization: PowerBI, Figma, Canvas
-- Automation: Microsoft Power Automate, OutSystems, UiPath
-- Testing Automation: SeleniumLibrary.
-- Cloud technologies: Azure, AWS, Google Cloud Platform (GCP), Kubernetes.
+### ⚙️ Technical Skills & Tools
 
-## 👋🏻 Connect with Me
-- 🖇 [www.andy.io.vn](https://www.linkedin.com/in/anduytranhuynh/)
-- 📧 andy.tranhuynh@gmail.com
-  <!-- Hire me on Upwork -->
+#### 🧠 Core Areas
+- **Cloud Computing:** AWS (EC2, S3, IAM, CloudWatch, Lambda, RDS)
+- **DevOps & CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
+- **Infrastructure as Code (IaC):** Terraform, Ansible
+- **Containerization:** Docker, Docker Compose, Kubernetes (basics)
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki
+- **Version Control:** Git, GitHub, GitLab
+- **Scripting & Programming:** Python, Bash, PowerShell
+- **OS & Server Management:** Linux (Ubuntu, CentOS), Windows Server
+- **Automation & Integration:** Webhooks, APIs, REST, JSON
+- **AI & Data Tools:** Streamlit, Gradio, Hugging Face Transformers, SentenceTransformers, FAISS
+- **Project & Collaboration Tools:** Jira, Confluence, Microsoft Teams, SharePoint, Slack
 
+---
 
-## 🏆 Achivements:
-- [My achivements in workplaces](https://github.com/andylovecloud/Working-history-and-archivements)
-- [My Study Open badges passport](https://openbadgepassport.com/app/profile/218294)
+### 🚀 What I’m Currently Working On
 
+- 🧩 Building **CI/CD + Monitoring Demo Projects** combining Jenkins, Docker, Prometheus, and Grafana for DevOps learning.  
+- ☁️ Preparing for **AWS Certified Cloud Practitioner (CLF-C02)** certification.  
+- 🤖 Developing **AI-powered Fashion Assistant** using **Python + LLaMA Vision** and **FAISS vector search** for sustainable fashion recommendations.  
+- 💬 Exploring **automation workflows** between Teams, GitHub, and AWS for team collaboration.
 
-<!--![Most Used Languages]([https://github-readme-stats-git-master-andys-projects-f1744a7d.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)-->
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andylovecloud&layout=compact)
+### 🧩 Featured Projects
 
+#### 🧠 [AI Fashion Assistant](https://github.com/andylovecloud/DevOps_engineer)
+> An AI-powered fashion chatbot that analyzes clothing images and suggests sustainable products using **LLaMA 3 Vision**, **SentenceTransformers**, and **FAISS**.
+
+**Tech Stack:** Python, Streamlit, LLaMA 3 Vision, FAISS, Transformers  
+**Highlights:** Image analysis, embedding search, real-time suggestion, adaptive learning.
+
+---
+
+#### ⚙️ [CI/CD + Monitoring Demo](https://github.com/andylovecloud/Porfolio-guide)
+> A hands-on DevOps pipeline demonstration featuring **continuous integration**, **containerized deployment**, and **infrastructure monitoring**.
+
+**Tech Stack:** Jenkins, Docker, Prometheus, Grafana, GitHub Actions  
+**Highlights:** End-to-end CI/CD workflow, alerting dashboard, and log monitoring setup.
+
+---
+
+#### 💼 [Working Experience & Achievements](https://github.com/andylovecloud/Working-history-and-archivements)
+> A timeline of my professional achievements and contributions in IT Operations and Service Management.
+
+---
+
+#### 🧭 [How to Create a GitHub Portfolio](https://github.com/andylovecloud/How-to-Create-a-GitHub-Portfolio)
+> A step-by-step guide to building a professional GitHub portfolio — perfect for students, engineers, and job seekers.
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🧾 **AWS Certified Cloud Practitioner (in progress)**  
+- 🎓 **HAMK Bachelor of Business Administration (Computer Applications)**  
+- 🥇 [**Professional Achievements**](https://github.com/andylovecloud/Working-history-and-archivements) – Workplace highlights & success stories  
+- 🎖️ [**Open Badge Passport**](https://openbadgepassport.com/app/profile/218294) – Verified academic & professional learning milestones  
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/)  
+- 📧 **andy.tranhuynh@gmail.com**  
+- 🌐 [Portfolio Website](https://www.linkedin.com/in/anduytranhuynh/)  
+- 🧰 [GitHub Projects](https://github.com/andylovecloud?tab=repositories)
+
+---
+
+### 📊 GitHub Stats
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andylovecloud&layout=compact&theme=default)
+
+---
+
+> “Continuous learning, collaboration, and automation drive innovation — that’s the core of DevOps.”  
+> — Andy Tran Huynh

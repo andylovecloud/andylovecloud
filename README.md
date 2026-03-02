@@ -92,7 +92,7 @@ Bachelor’s in **Business Administration (Computer Applications)** – HAMK Uni
 
 ### 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andylovecloud&layout=compact&theme=default)
+![Most Used Languages](https://streak-stats.demolab.com?user=andylovecloud&theme=default&hide_border=true)
 
 ---
 

@@ -1,4 +1,4 @@
-## 👋 Xin chào, tôi là **Andy Tran Huynh**
+## 👋 Hi, I'm **Andy Tran Huynh**
 
 ![Git-cover](https://github.com/user-attachments/assets/2dbf412e-bfe2-4d9b-98db-2c6e561bad5e)
 
@@ -90,19 +90,6 @@ Tôi có hơn **10 năm kinh nghiệm trong IT Operations** và quản lý vòng
 - 💼 [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/)
 - 📧 **andy.tranhuynh@gmail.com**
 - 🧰 [GitHub Projects](https://github.com/andylovecloud?tab=repositories)
-
----
-
-## 📌 Gợi ý cải thiện thêm (khuyến nghị)
-
-Để portfolio mạnh hơn cho vị trí **Project Manager / Scrum Master**, bạn nên bổ sung:
-1. **Số liệu định lượng** cho từng dự án (on-time delivery, % giảm incident, % cải thiện lead time…)
-2. **Quy mô dự án** (team size, budget range, số sprint/thời lượng)
-3. **Vai trò cụ thể theo từng dự án** (Decision-maker, Facilitator, Coordinator…)
-4. **Case study 1 trang** cho 1 dự án tiêu biểu (challenge → action → result)
-5. **Chứng chỉ Agile/Scrum** (PSM, CSM, PMI-ACP hoặc tương đương)
-
----
 
 > “Successful projects are built by clear goals, strong collaboration, and continuous improvement.”  
 > — Andy Tran Huynh

@@ -8,23 +8,23 @@
 
 **Project Management | Scrum Master | IT Service Operations**
 
-Tôi có hơn **10 năm kinh nghiệm trong IT Operations** và quản lý vòng đời sản phẩm/dịch vụ, tập trung vào:
-- Lập kế hoạch và điều phối dự án đa phòng ban
-- Tối ưu quy trình và nâng cao hiệu suất đội ngũ
-- Triển khai Agile/Scrum để tăng tốc độ bàn giao và chất lượng
-- Quản trị rủi ro, stakeholder communication và continuous improvement
+I have over **10 years of experience in IT Operations** and service/product lifecycle management, with a strong focus on:
+- Project planning and cross-functional coordination
+- Process optimization and team performance improvement
+- Agile/Scrum implementation for faster, higher-quality delivery
+- Risk management, stakeholder communication, and continuous improvement
 
-🌍 Finland 🇫🇮 | Sẵn sàng cho các vai trò **Project Manager / Scrum Master** ở môi trường quốc tế.
+🌍 Based in Finland 🇫🇮 | Open to **Project Manager / Scrum Master** roles in international environments.
 
 ---
 
 ## 💡 Professional Summary
 
-- Kinh nghiệm dẫn dắt dự án từ giai đoạn khởi tạo đến bàn giao vận hành
-- Là cầu nối giữa business và technical teams, đảm bảo mục tiêu, phạm vi và timeline rõ ràng
-- Thành thạo điều phối Sprint events: Planning, Daily Scrum, Review, Retrospective
-- Theo dõi hiệu suất delivery qua KPI và cải tiến liên tục
-- Nền tảng kỹ thuật tốt giúp làm việc hiệu quả với đội DevOps, Cloud và Software teams
+- Experienced in leading projects from initiation to operational handover
+- Strong bridge between business and technical teams, ensuring clear goals, scope, and timelines
+- Hands-on facilitation of Sprint events: Planning, Daily Scrum, Review, and Retrospective
+- Focused on delivery performance through KPI tracking and continuous improvement
+- Technical foundation that enables effective collaboration with DevOps, Cloud, and Software teams
 
 ---
 
@@ -56,24 +56,24 @@ Tôi có hơn **10 năm kinh nghiệm trong IT Operations** và quản lý vòng
 ## 🗂️ Project Portfolio (Management Lens)
 
 ### 1) [AI Fashion Assistant](https://github.com/andylovecloud/AI-Fashion.git)
-**Vai trò thể hiện:** Project Coordinator / Agile Facilitator  
-**Giá trị quản lý:**
-- Điều phối phạm vi và mốc triển khai cho sản phẩm AI demo
-- Đồng bộ trao đổi giữa yêu cầu sản phẩm và năng lực kỹ thuật
-- Theo dõi tiến độ và ưu tiên backlog theo giá trị đầu ra
+**Role Focus:** Project Coordinator / Agile Facilitator  
+**Management Value:**
+- Coordinated scope and milestone planning for an AI demo product
+- Aligned product requirements with technical execution capacity
+- Tracked progress and prioritized backlog items by business value
 
 ### 2) [CI/CD + Project](https://github.com/andylovecloud/DevOps_engineer)
-**Vai trò thể hiện:** Technical Project Management  
-**Giá trị quản lý:**
-- Tổ chức kế hoạch triển khai pipeline theo các giai đoạn rõ ràng
-- Quản lý phụ thuộc giữa build, deploy và monitoring
-- Chuẩn hóa quy trình release để giảm rủi ro vận hành
+**Role Focus:** Technical Project Management  
+**Management Value:**
+- Structured pipeline rollout plans across clear implementation phases
+- Managed dependencies across build, deploy, and monitoring workflows
+- Standardized release practices to reduce operational risks
 
 ### 3) [Working Experience & Achievements](https://github.com/andylovecloud/Working-history-and-archivements)
-**Vai trò thể hiện:** Service & Operations Leadership  
-**Giá trị quản lý:**
-- Lịch sử thành tích trong IT operations và service delivery
-- Minh chứng về năng lực quản lý công việc, ưu tiên và cải tiến liên tục
+**Role Focus:** Service & Operations Leadership  
+**Management Value:**
+- Track record of achievements in IT operations and service delivery
+- Evidence of prioritization, workload management, and continuous improvement
 
 ---
 

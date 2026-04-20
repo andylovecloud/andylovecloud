@@ -1,100 +1,108 @@
-## 👋 Hi there, I'm **Andy Tran Huynh**
+## 👋 Xin chào, tôi là **Andy Tran Huynh**
 
 ![Git-cover](https://github.com/user-attachments/assets/2dbf412e-bfe2-4d9b-98db-2c6e561bad5e)
 
 ---
 
-### 💡 About Me
+## 🎯 Career Focus
 
-I’m a **DevOps & Cloud Enthusiast** with over **10 years of experience in IT Service Operations** and **Software Product Lifecycle Management (PLM)**.  
-My professional journey began in enterprise IT support and service delivery, where I developed a strong foundation in system reliability, process optimization, and cross-team collaboration.  
+**Project Management | Scrum Master | IT Service Operations**
 
-Currently, I’m focusing on **Cloud Engineering and DevOps automation**, leveraging tools like AWS, Jenkins, Docker, and Terraform to streamline infrastructure and accelerate deployment cycles.
+Tôi có hơn **10 năm kinh nghiệm trong IT Operations** và quản lý vòng đời sản phẩm/dịch vụ, tập trung vào:
+- Lập kế hoạch và điều phối dự án đa phòng ban
+- Tối ưu quy trình và nâng cao hiệu suất đội ngũ
+- Triển khai Agile/Scrum để tăng tốc độ bàn giao và chất lượng
+- Quản trị rủi ro, stakeholder communication và continuous improvement
 
-🎓 **Education**:  
-Bachelor’s in **Business Administration (Computer Applications)** – HAMK University of Applied Sciences, Finland *(Graduation: May 2025)*  
-
-🌍 Based in Finland 🇫🇮 | Passionate about **continuous learning, scalable systems**, and **AI-integrated cloud solutions**.
-
----
-
-### ⚙️ Technical Skills & Tools
-
-#### 🧠 Core Areas
-- **Cloud Computing:** AWS (EC2, S3, IAM, CloudWatch, Lambda, RDS)
-- **DevOps & CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
-- **Infrastructure as Code (IaC):** Terraform, Ansible
-- **Containerization:** Docker, Docker Compose, Kubernetes (basics)
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki
-- **Version Control:** Git, GitHub, GitLab
-- **Scripting & Programming:** Python, Bash, PowerShell
-- **OS & Server Management:** Linux (Ubuntu, CentOS), Windows Server
-- **Automation & Integration:** Webhooks, APIs, REST, JSON
-- **AI & Data Tools:** Streamlit, Gradio, Hugging Face Transformers, SentenceTransformers, FAISS
-- **Project & Collaboration Tools:** Jira, Confluence, Microsoft Teams, SharePoint, Slack
+🌍 Finland 🇫🇮 | Sẵn sàng cho các vai trò **Project Manager / Scrum Master** ở môi trường quốc tế.
 
 ---
 
-### 🚀 What I’m Currently Working On
+## 💡 Professional Summary
 
-- 🧩 Building **CI/CD + Monitoring Demo Projects** combining Jenkins, Docker, Prometheus, and Grafana for DevOps learning.  
-- ☁️ Preparing for **AWS Certified Cloud Practitioner (CLF-C02)** certification.  
-- 🤖 Developing **AI-powered Fashion Assistant** using **Python + LLaMA Vision** and **FAISS vector search** for sustainable fashion recommendations.  
-- 💬 Exploring **automation workflows** between Teams, GitHub, and AWS for team collaboration.
-
----
-
-### 🧩 Featured Projects
-
-#### 🧠 [AI Fashion Assistant](https://github.com/andylovecloud/AI-Fashion.git)
-> An AI-powered fashion chatbot that analyzes clothing images and suggests sustainable products using **LLaMA 3 Vision**, **SentenceTransformers**, and **FAISS**.
-
-**Tech Stack:** Python, Streamlit, LLaMA 3 Vision, FAISS, Transformers  
-**Highlights:** Image analysis, embedding search, real-time suggestion, adaptive learning.
+- Kinh nghiệm dẫn dắt dự án từ giai đoạn khởi tạo đến bàn giao vận hành
+- Là cầu nối giữa business và technical teams, đảm bảo mục tiêu, phạm vi và timeline rõ ràng
+- Thành thạo điều phối Sprint events: Planning, Daily Scrum, Review, Retrospective
+- Theo dõi hiệu suất delivery qua KPI và cải tiến liên tục
+- Nền tảng kỹ thuật tốt giúp làm việc hiệu quả với đội DevOps, Cloud và Software teams
 
 ---
 
-#### ⚙️ [CI/CD + Project](https://github.com/andylovecloud/DevOps_engineer)
-> A hands-on DevOps pipeline demonstration featuring **continuous integration**, **containerized deployment**, and **infrastructure monitoring**.
+## 🧭 Core Competencies (PM & Scrum Master)
 
-**Tech Stack:** Jenkins, Docker, Prometheus, Grafana, GitHub Actions  
-**Highlights:** End-to-end CI/CD workflow, alerting dashboard, API implementation and log monitoring setup.
+### Project Management
+- Project Planning & Roadmap Management
+- Scope / Time / Cost Management
+- Risk & Issue Management
+- Stakeholder & Communication Management
+- Cross-functional Team Coordination
+- Process Standardization & Service Improvement
 
----
+### Scrum Mastery
+- Agile Coaching & Team Facilitation
+- Backlog Refinement Support
+- Sprint Planning & Capacity Alignment
+- Impediment Removal
+- Delivery Metrics (Velocity, Lead Time, Cycle Time)
+- Retrospective Action Tracking
 
-#### 💼 [Working Experience & Achievements](https://github.com/andylovecloud/Working-history-and-archivements)
-> A timeline of my professional achievements and contributions in IT Operations and Service Management.
-
----
-
-#### 🧭 [How to Create a GitHub Portfolio](https://github.com/andylovecloud/How-to-Create-a-GitHub-Portfolio)
-> A step-by-step guide to building a professional GitHub portfolio — perfect for students, engineers, and job seekers.
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🧾 **AWS Certified Cloud Practitioner (in progress)**  
-- 🎓 **HAMK Bachelor of Business Administration (Computer Applications)**  
-- 🥇 [**Professional Achievements**](https://github.com/andylovecloud/Working-history-and-archivements) – Workplace highlights & success stories  
-- 🎖️ [**Open Badge Passport**](https://openbadgepassport.com/app/profile/218294) – Verified academic & professional learning milestones  
+### Tools & Platforms
+- **Management:** Jira, Confluence, Trello, Microsoft Teams, SharePoint, Slack
+- **Reporting:** Excel/Sheets dashboards, KPI tracking, service reporting
+- **Technical Collaboration:** GitHub, GitLab, Jenkins, AWS (context for technical project governance)
 
 ---
 
-### 🤝 Let’s Connect
+## 🗂️ Project Portfolio (Management Lens)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/)  
-- 📧 **andy.tranhuynh@gmail.com**  
-- 🌐 [Portfolio Website](https://www.linkedin.com/in/anduytranhuynh/)  
+### 1) [AI Fashion Assistant](https://github.com/andylovecloud/AI-Fashion.git)
+**Vai trò thể hiện:** Project Coordinator / Agile Facilitator  
+**Giá trị quản lý:**
+- Điều phối phạm vi và mốc triển khai cho sản phẩm AI demo
+- Đồng bộ trao đổi giữa yêu cầu sản phẩm và năng lực kỹ thuật
+- Theo dõi tiến độ và ưu tiên backlog theo giá trị đầu ra
+
+### 2) [CI/CD + Project](https://github.com/andylovecloud/DevOps_engineer)
+**Vai trò thể hiện:** Technical Project Management  
+**Giá trị quản lý:**
+- Tổ chức kế hoạch triển khai pipeline theo các giai đoạn rõ ràng
+- Quản lý phụ thuộc giữa build, deploy và monitoring
+- Chuẩn hóa quy trình release để giảm rủi ro vận hành
+
+### 3) [Working Experience & Achievements](https://github.com/andylovecloud/Working-history-and-archivements)
+**Vai trò thể hiện:** Service & Operations Leadership  
+**Giá trị quản lý:**
+- Lịch sử thành tích trong IT operations và service delivery
+- Minh chứng về năng lực quản lý công việc, ưu tiên và cải tiến liên tục
+
+---
+
+## 🏆 Education & Certifications
+
+- 🎓 **Bachelor of Business Administration (Computer Applications)** – HAMK, Finland
+- 🧾 **AWS Certified Cloud Practitioner (in progress)**
+- 🎖️ [**Open Badge Passport**](https://openbadgepassport.com/app/profile/218294)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/)
+- 📧 **andy.tranhuynh@gmail.com**
 - 🧰 [GitHub Projects](https://github.com/andylovecloud?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Gợi ý cải thiện thêm (khuyến nghị)
 
-![Most Used Languages](https://streak-stats.demolab.com?user=andylovecloud&theme=default&hide_border=true)
+Để portfolio mạnh hơn cho vị trí **Project Manager / Scrum Master**, bạn nên bổ sung:
+1. **Số liệu định lượng** cho từng dự án (on-time delivery, % giảm incident, % cải thiện lead time…)
+2. **Quy mô dự án** (team size, budget range, số sprint/thời lượng)
+3. **Vai trò cụ thể theo từng dự án** (Decision-maker, Facilitator, Coordinator…)
+4. **Case study 1 trang** cho 1 dự án tiêu biểu (challenge → action → result)
+5. **Chứng chỉ Agile/Scrum** (PSM, CSM, PMI-ACP hoặc tương đương)
 
 ---
 
-> “Continuous learning, collaboration, and automation drive innovation — that’s the core of DevOps.”  
+> “Successful projects are built by clear goals, strong collaboration, and continuous improvement.”  
 > — Andy Tran Huynh

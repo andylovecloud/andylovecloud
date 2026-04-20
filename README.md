@@ -80,7 +80,8 @@ I have over **10 years of experience in IT Operations** and service/product life
 ## 🏆 Education & Certifications
 
 - 🎓 **Bachelor of Business Administration (Computer Applications)** – HAMK, Finland
-- 🧾 **AWS Certified Cloud Practitioner (in progress)**
+- 🧾 [**Google Project Management Professional Certificate**](https://www.credly.com/badges/0b983c55-e667-4e65-9e0f-e74b55470cc9/public_url)
+- 🧾 [**Professional Scrum Master™ I (PSM I)**](https://www.credly.com/badges/b3702988-b322-4181-9d8d-1714056bbe74/public_url)
 - 🎖️ [**Open Badge Passport**](https://openbadgepassport.com/app/profile/218294)
 
 ---
